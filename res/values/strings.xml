@@ -32,7 +32,7 @@
           {type} - Build type
           {incr} - Incremental version
     -->
-    <string name="updater_server_url" translatable="false">https://dl.fwiep.nl/api/v1/{device}</string>
+    <string name="updater_server_url" translatable="false">https://www.paetzold-family.de/LOS-OTA/LineageOS-OTA.json</string>
 
     <string name="verification_failed_notification">Verification failed</string>
     <string name="verifying_download_notification">Verifying update</string>
